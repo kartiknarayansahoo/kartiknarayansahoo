@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime and linux distros(greatest thing I found recently).
 - 🌱 I’m currently learning data science, ML and CP.
 - 💞️ I’m looking to collaborate on projects related to ML and AI (preferably in the field of Aerospace engineering)
-- 📫 You can reach out to me on [linkedin](https://www.linkedin.com/in/kartiknarayansahoo/)
+- 📫 You can reach out to me on <a href="https://www.linkedin.com/in/kartiknarayansahoo/" target="_blank">linkedin</a>
 
 <!---
 kartiknarayansahoo/kartiknarayansahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
